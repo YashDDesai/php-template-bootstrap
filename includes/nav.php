@@ -22,6 +22,9 @@
 	  <li class="nav-item <?php echo ("contact.php" === $page ? 'active' : '');?>">
         <a class="nav-link" href="contact.php">Contact Us</a>
       </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="http://yashclassesbharuch.ddns.net">My Blog</a>
+      </li>
       <!--<li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Dropdown
