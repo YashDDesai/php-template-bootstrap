@@ -1,0 +1,16 @@
+.active{
+	font-style:bold;
+	color:#00ff00;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+  margin: 0;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width:100%;
+}
